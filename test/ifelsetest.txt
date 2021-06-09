@@ -1,0 +1,15 @@
+let sunColor = "red";
+if (sunColor == "yellow"){
+    console.log("Red is not my favourite color");
+}
+else {
+    console.log("Red is my favourite color");
+}
+
+let no1 = 5;
+let no2 = 5;
+if (no1 == 3){
+    no2 += 5
+} else {
+    no2 *= 4
+}

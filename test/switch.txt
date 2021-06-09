@@ -1,0 +1,29 @@
+let age = 21;
+switch (age){
+    case 19:
+        "my age is not 19"
+        break;
+    case 20:
+        "my age is not 20"
+        break;
+    case 21:
+        "my age is 21"
+        break;
+    default:
+        "my age is elder than 19"
+}
+
+let myFavNo = 9;
+switch (myFavNo){
+    case 4:
+        "Four is not lucky number for me"
+        break;
+    case 7:
+        "Seven is not lucky for me"
+        break;
+    case 9:
+        "Nine is lucky number for me"
+        break;
+    default:
+        "Ten is also my lucky number"
+}
